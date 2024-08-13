@@ -40,7 +40,8 @@ Tasks:
 ### 1.	Monthly Sales Analysis: 
 
 Key Insights:
-A.	Seasonal Trends: There are noticeable peaks and dips in sales throughout the year. For example, sales peak significantly in March and November, indicating these months might have higher demand or successful promotional campaigns.
+A.	Seasonal Trends: There are noticeable peaks and dips in sales throughout the year. 
+      For example, sales peak significantly in March and November, indicating these months might have higher demand or successful promotional campaigns.
 B.	Low Sales Periods: April shows a sharp decline in sales following the March peak. This could indicate a post-peak slump or seasonal variation.
 C.	Consistent Performance: Some months, like May and June, show relatively stable sales without significant fluctuations.
 D.	Highest Sales: November has the highest sales on the graph, suggesting it might be a crucial month for business, possibly due to holiday shopping or special events.
@@ -49,12 +50,19 @@ D.	Highest Sales: November has the highest sales on the graph, suggesting it mig
 
 A.	
 •	California (CA): Dominates the sales distribution with 39.8% of total sales, indicating a significant market presence and customer base in this state.
+
 •	New York (NY): Accounts for 13.5% of sales, making it the second-highest contributor.
+
 •	Texas (TX): Close behind NY with 13.3% of sales, showing strong performance in this state as well.
+
 •	Georgia (GA): Contributes 10.6% to the sales, indicating a notable market share.
+
 •	Massachusetts (MA): Holds 7.9% of the sales distribution.
+
 •	Virginia (VA): Accounts for 6.1% of sales.
+
 •	Oregon (OR): Represents 5.4% of the sales.
+
 •	Maine (ME): Has the smallest share among the listed states with 3.4% of sales.
 
 B.	Key Insights:
@@ -90,11 +98,13 @@ Key Insights:
 
 ### 5.	Products Sold Together:
         
-1.	Most Frequent Combination: The combination of iPhone and Lightning Charging Cable is the most frequent, with a frequency close to 1000. This indicates a high demand for this pairing, possibly due to the popularity of iPhones and the necessity of charging accessories.
+1.	Most Frequent Combination: The combination of iPhone and Lightning Charging Cable is the most frequent, with a frequency close to 1000. This indicates a high demand for this pairing, possibly due to 
+      the popularity of iPhones and the necessity of charging accessories.
 2.	Other Popular Combinations:
 o	Google Phone and USB-C Charging Cable: This combination also shows a high frequency, suggesting a strong demand for Google phones and their charging accessories.
 o	iPhone and Wired Headphones: Another popular combination, indicating that many iPhone users also purchase wired headphones.
 3.	Less Frequent Combinations: Combinations like Vareebadd Phone and Wired Headphones and Lightning Charging Cable and Wired Headphones have lower frequencies, indicating less demand for these pairings.
+   
 Key Insights:
 •	Accessory Demand: Charging cables and headphones are frequently purchased with phones, highlighting the importance of these accessories.
 •	Brand Popularity: iPhone-related combinations dominate the graph, suggesting a strong market presence for Apple products.
@@ -108,7 +118,8 @@ o	Lightning Charging Cable and USB-C Charging Cable also show high sales, reflec
 2.	Low Sales Volume:
 o	Products like LG Washing Machine and LG Dryer have much lower sales volumes, suggesting these high-priced items are less frequently purchased.
 3.	Price vs. Quantity:
-o	There is an inverse relationship between price and quantity sold. Cheaper items like batteries and charging cables sell in higher quantities, while more expensive items like monitors and laptops sell in lower quantities.
+o	There is an inverse relationship between price and quantity sold. Cheaper items like batteries and charging cables sell in higher quantities, while more expensive items like monitors and laptops 
+      sell in lower quantities.
 o	The line graph shows that products with higher average prices, such as Macbook Pro Laptop and ThinkPad Laptop, have lower sales volumes.
 
 Key Insights:
