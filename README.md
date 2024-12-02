@@ -72,6 +72,7 @@ This project analyzes an online sales dataset using Pandas for data cleaning and
 ## Technologies Used:
 - **Python**
 - **Pandas**
+- **NumPy**
 - **Matplotlib**
 - **Plotly**
 - **Seaborn**
